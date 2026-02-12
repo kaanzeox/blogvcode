@@ -79,20 +79,16 @@ export const POST_IT_STYLES: Record<
 
 export const POSTS: BlogPost[] = [
   {
-    slug: "my-first-post",
+    slug: "praise-you",
     date: "2026-02-13",
-    title: "My First Post",
-    excerpt: "The beginning of this blog journey. Why am I here?",
+    title: "Praise You",
+    excerpt: "Subjective ideas about Praise You",
     coverImage:
-      "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+      "https://i.ytimg.com/vi/1BoXlv-TV2c/maxresdefault.jpg",
     content: `
-      <p>Hello! This is my first blog post. Every Friday I'll be here with a new article.</p>
-      <p>This blog is part of a university course. Each week I'll share thoughts on different topics — technology, design, software development, and life in general.</p>
-      <h2>Why Blog?</h2>
-      <p>Writing a blog helps me organize my thoughts and make what I've learned more permanent. I also want to improve myself by practicing writing regularly.</p>
-      <h2>What to Expect?</h2>
-      <p>A new post every Friday. Topics will range from web development, UI/UX design, artificial intelligence, and everyday life observations.</p>
-      <p>Stay tuned! 🚀</p>
+      <p>Watching Fatboy Slim's "Praise You" music video was honestly a huge surprise for me because I never expected such a messy and "amateur style" (that's what I felt) work from a visionary like Spike Jonze. Knowing he later directed deep, visually stunning movies like <em>Being John Malkovich</em> or <em>Her</em>, this clip felt very different.</p>
+      <p>As someone who loves the clean and organized look of digital design and photography, this intentional chaos and weird street energy isn't really my style. However, seeing Jonze's genius in such a raw and unfiltered way gave me a very different impression.</p>
+      <p>Even though I usually look for perfect compositions, seeing a simple, unplanned idea become more powerful than technical perfection was a really strange but interesting experience.</p>
     `,
     color: "yellow",
   },

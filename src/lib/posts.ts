@@ -84,10 +84,10 @@ export const POSTS: BlogPost[] = [
     title: "Is A24 Become Overrated?",
     excerpt: "After last hits and Turkey theaters",
     coverImage:
-      "https://static.wikia.nocookie.net/filmguide/images/4/46/A24.png/",
+      "https://static.wikia.nocookie.net/filmguide/images/4/46/A24.png/revision/latest?cb=20230101000000",
     content: `
-      <p>To be honest, A24 getting so famous and showing up in Turkish theaters really bothers me. Seeing almost every A24 movie in every mall cinema feels weird. In a country where many things get banned or face backlash, A24 has scenes that are way too much for the general audience here. Their dark and strange style doesn't really fit the average moviegoer in Turkey. It's not the kind of "popcorn movie" you watch just to relax on the weekend.</p>
-      <p>A24 never really tried to be just "aesthetic" or mainstream, but I think that changed after <em>Talk to Me</em> became a huge hit. Still, let's be real: A24 is not overrated yet. They just became very popular, which makes those of us who followed them from the start feel a bit protective. They are still taking risks and telling weird stories. It's just that now the door is open to everyone, and the crowd can be annoying. I really hope that even with a famous cast in <em>Marty Supreme</em>, they don't lose their soul to the mainstream. I want them to keep surprising us like they used to.</p>
+      <p>To be honest, A24 getting so famous and showing up in Turkish theaters really bothers me. Seeing almost every A24 movie in every mall cinema feels weird. In a country where many things get banned or face backlash, A24 has scenes that are way too much for the general audience here. Their dark and strange style doesn't really fit the average moviegoer in Turkey. It's not the kind of popcorn movie you watch just to relax on the weekend.</p>
+      <p>A24 never really tried to be just aesthetic or mainstream, but I think that changed after Talk to Me became a huge hit. Still, let's be real, A24 is not overrated yet. They just became very popular, which makes those of us who followed them from the start feel a bit protective. They are still taking risks and telling weird stories. It's just that now the door is open to everyone, and the crowd can be annoying. I really hope that even with a famous cast in Marty Supreme, they don't lose their soul to the mainstream. I want them to keep surprising us like they used to.</p>
     `,
     color: "orange",
   },

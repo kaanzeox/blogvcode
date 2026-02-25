@@ -15,6 +15,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "static.wikia.nocookie.net",
       },
+      {
+        protocol: "https",
+        hostname: "images.immediate.co.uk",
+      },
     ],
   },
 };

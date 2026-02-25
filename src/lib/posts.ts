@@ -79,6 +79,21 @@ export const POST_IT_STYLES: Record<
 
 export const POSTS: BlogPost[] = [
   {
+    slug: "alice-in-borderland-season-3",
+    date: "2026-02-27",
+    title: "Alice in Borderland Season 3",
+    excerpt: "New season review",
+    coverImage:
+      "https://images.immediate.co.uk/production/volatile/sites/3/2025/02/Alice-in-Borderlands-27ad01d.jpg",
+    content: `
+      <p>Even though it has been out for a while, I just watched the final season of Alice in Borderland Season 3. Like many people, I thought Season 2 was the end. I believed the Joker card at the end was just something the producers added in case they wanted to change their minds later.</p>
+      <p>When I started watching this new season which came out quite late I had forgotten many details except the main plot. However, I didn't have much trouble because the new season doesn't focus too much on old stories.</p>
+      <p>Personally, even though I don't usually like Asian productions, I find the story and content of Alice in Borderland very clever. It is clear that they thought about every detail, and this continues in the new season.</p>
+      <p>Although it is not as good as the previous seasons, I can say it was a satisfying final season. It didn't surpass the quality of the earlier seasons, but I don't regret watching it. The cinematography and use of colors are still excellent. In every episode, the show reminds you that it is not just a cheap Netflix series.</p>
+    `,
+    color: "blue",
+  },
+  {
     slug: "is-a24-overrated",
     date: "2026-02-20",
     title: "Is A24 Become Overrated?",

@@ -19,6 +19,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "images.immediate.co.uk",
       },
+      {
+        protocol: "https",
+        hostname: "hips.hearstapps.com",
+      },
     ],
   },
 };

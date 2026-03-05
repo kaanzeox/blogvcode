@@ -11,7 +11,7 @@
  */
 
 const SPOTIFY_EMBED_URL: string | null =
-  "https://open.spotify.com/embed/track/57GsLpRtEtrzcPGPop20rS?utm_source=generator";
+  "https://open.spotify.com/embed/track/3oEkrIfXfSh9zGnE7eBzSV?utm_source=generator";
 
 export function SiteFooter() {
   return (

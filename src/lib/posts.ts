@@ -79,6 +79,19 @@ export const POST_IT_STYLES: Record<
 
 export const POSTS: BlogPost[] = [
   {
+    slug: "maxxxine-review",
+    date: "2026-03-06",
+    title: "maXXXine Review",
+    excerpt: "Subjective Maxxxine review",
+    coverImage:
+      "https://hips.hearstapps.com/hmg-prod/images/halsey-mia-goth-maxxxine-6683caabb54bf.jpg?crop=1.00xw:0.846xh;0,0.0967xh",
+    content: `
+      <p>I finally watched MaXXXine, the final movie of the trilogy after Pearl and X. I was very excited after seeing the trailers, but I didn't have the chance to watch it when it first came out. Even though a lot of time has passed, I had high expectations.</p>
+      <p>Compared to the first two movies, I think the story was disappointing. If Mia Goth wasn't the lead, I wouldn't even call this a sequel because everything felt so disconnected. Since it is an A24 production, the cinematography is great and the quality is very high, as expected. However, I'm sad that such a good series ended this way. After two great movies, it deserved a better ending.</p>
+    `,
+    color: "pink",
+  },
+  {
     slug: "alice-in-borderland-season-3",
     date: "2026-02-27",
     title: "Alice in Borderland Season 3",

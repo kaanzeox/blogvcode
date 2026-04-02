@@ -79,6 +79,62 @@ export const POST_IT_STYLES: Record<
 
 export const POSTS: BlogPost[] = [
   {
+    slug: "ready-or-not-2-review",
+    date: "2026-04-03",
+    title: "Ready or Not 2 Review",
+    excerpt: "Does the sequel deliver",
+    coverImage:
+      "https://i.ytimg.com/vi/jczr0KCloXk/maxresdefault.jpg",
+    content: `
+      <p>I went to see Ready or Not 2 in theaters last week because I loved the first one so much. The sequel picks up right where the first movie ended and the scale is much bigger this time. Instead of one family hunting Grace there are now four families competing for some kind of throne.</p>
+      <p>Honestly it was fun but not as good as the original. The first movie worked because it was simple and tight. This one tries to do too much and loses some of that charm. Samara Weaving is still great and Kathryn Newton as her sister was a nice addition. But the story got too complicated for what should be a straightforward survival movie.</p>
+      <p>I don't regret watching it in the cinema but I think they should have kept it smaller. Sometimes bigger is not better. The first Ready or Not was special because it was small and focused. This one felt like a regular action movie with too many characters.</p>
+    `,
+    color: "green",
+  },
+  {
+    slug: "ready-or-not-review",
+    date: "2026-03-27",
+    title: "Ready or Not Review",
+    excerpt: "A fun deadly wedding game",
+    coverImage:
+      "https://i.ytimg.com/vi/ZtYTwUxhAoI/maxresdefault.jpg",
+    content: `
+      <p>I rewatched Ready or Not before going to see the sequel and I forgot how good this movie is. The idea is simple but genius. A bride plays a game of hide and seek with her rich in-laws but the game is actually deadly. Samara Weaving carries the whole movie and she is amazing in it.</p>
+      <p>What I love about this movie is that it doesn't take itself too seriously. It is scary but also funny at the same time. The kills are creative and the ending is one of the most satisfying endings I have seen in a horror movie. The whole movie is only 90 minutes and it doesn't waste a single minute.</p>
+      <p>If you haven't watched it yet I really recommend it especially before watching the sequel. It is one of those movies that makes you think why don't they make more movies like this.</p>
+    `,
+    color: "yellow",
+  },
+  {
+    slug: "the-housemaid-review",
+    date: "2026-03-20",
+    title: "The Housemaid Review",
+    excerpt: "Sydney Sweeney thriller thoughts",
+    coverImage:
+      "https://i.ytimg.com/vi/48CtX6OgU3s/maxresdefault.jpg",
+    content: `
+      <p>I finally watched The Housemaid after hearing about it everywhere. Sydney Sweeney is in everything these days and I was curious if this movie actually deserves the hype or if it is just another average thriller with a famous face.</p>
+      <p>To be honest it was better than I expected. The story keeps you guessing and the twists actually surprised me. Amanda Seyfried was really good in her role and the tension between the characters felt real. It is not the most original story in the world but the way they built the suspense made it work.</p>
+      <p>My only problem is that some parts felt a bit too dramatic like they were trying too hard. But overall I think it is a solid movie. If you like thrillers with some dark twists this one is worth watching. I get why it made so much money at the box office.</p>
+    `,
+    color: "purple",
+  },
+  {
+    slug: "hangover-trilogy",
+    date: "2026-03-13",
+    title: "The Hangover Trilogy",
+    excerpt: "Still the best comedy series",
+    coverImage:
+      "https://i.ytimg.com/vi/jj6wcUes1no/maxresdefault.jpg",
+    content: `
+      <p>I watched the Hangover trilogy again last week and honestly it still holds up. The first movie is one of those rare comedies that never gets old no matter how many times you watch it. The Vegas chaos, the tiger, Mr. Chow, everything about it is perfect. I still laugh at scenes I have already seen twenty times.</p>
+      <p>The second movie is basically the same movie in Bangkok but I still enjoyed it. It was not as surprising as the first one but the chemistry between Bradley Cooper, Ed Helms and Zach Galifianakis keeps it fun. The third one is where things go wrong. They tried to do something different and it just didn't work. It felt like they ran out of ideas and just wanted to end the series.</p>
+      <p>Still even with two weaker sequels the first Hangover is enough to make this trilogy worth it. Not many comedy movies can make you laugh this hard after all these years.</p>
+    `,
+    color: "green",
+  },
+  {
     slug: "maxxxine-review",
     date: "2026-03-06",
     title: "maXXXine Review",

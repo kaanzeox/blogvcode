@@ -79,6 +79,20 @@ export const POST_IT_STYLES: Record<
 
 export const POSTS: BlogPost[] = [
   {
+    slug: "the-drama-review",
+    date: "2026-04-10",
+    title: "The Drama Review",
+    excerpt: "Zendaya and Pattinson A24 film",
+    coverImage:
+      "https://i.ytimg.com/vi/6zmKcUa4Xxk/maxresdefault.jpg",
+    content: `
+      <p>I watched The Drama last week and I have to say it was one of the most uncomfortable movie experiences I have had in a while. The idea of a couple's perfect life falling apart because of one confession at a dinner party is both simple and terrifying. Zendaya and Robert Pattinson together sounded like a dream cast and they really delivered.</p>
+      <p>What makes this movie interesting is how it forces you to think about forgiveness and how much you really know about the people you love. The confession scene hit hard and the rest of the movie keeps that tension alive without letting go. It is an A24 movie so the quality and the atmosphere are exactly what you expect.</p>
+      <p>I wrote about A24 a few weeks ago and how they are getting too mainstream. But movies like The Drama remind me why I started following them in the first place. This is exactly the kind of uncomfortable and thought provoking story that A24 does best.</p>
+    `,
+    color: "blue",
+  },
+  {
     slug: "ready-or-not-2-review",
     date: "2026-04-03",
     title: "Ready or Not 2 Review",

@@ -79,6 +79,34 @@ export const POST_IT_STYLES: Record<
 
 export const POSTS: BlogPost[] = [
   {
+    slug: "the-gambler-dostoevsky",
+    date: "2026-04-24",
+    title: "The Gambler by Dostoevsky",
+    excerpt: "Thoughts on Kumarbaz",
+    coverImage:
+      "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Gambler_%28novel%29_1866_first_edition_cover.jpg",
+    content: `
+      <p>I just finished reading The Gambler by Dostoevsky and it hit different than I expected. The book is short compared to his other novels but it packs so much into it. The main character Alexei is a tutor who falls in love with a woman he can't have and becomes addicted to roulette. The way Dostoevsky writes about gambling addiction feels so real that it makes you uncomfortable.</p>
+      <p>What surprised me the most is that Dostoevsky wrote this entire book in 26 days just to pay off his own gambling debts. Knowing that makes the story feel even more personal and raw. You can feel the desperation in every page.</p>
+      <p>It is not as heavy as Crime and Punishment or The Brothers Karamazov but it is still Dostoevsky. The characters are flawed and real and the ending doesn't give you a happy resolution. If you want a quick read that will make you think about obsession and self-destruction this is it.</p>
+    `,
+    color: "purple",
+  },
+  {
+    slug: "traitors-turkiye",
+    date: "2026-04-17",
+    title: "The Traitors Türkiye",
+    excerpt: "Turkey's new reality show",
+    coverImage:
+      "https://i.ytimg.com/vi/8-5IRtW-zyc/maxresdefault.jpg",
+    content: `
+      <p>I started watching The Traitors Türkiye on Kanal D and honestly I didn't expect to like it this much. I already knew the format from the US and UK versions but seeing Turkish celebrities play this game is a completely different experience. The whole concept of traitors secretly eliminating people while everyone tries to figure out who is lying is so simple but so addictive.</p>
+      <p>The cast is interesting because you have names like Pascal Nouma and Yusuf Güney which makes it fun to watch. Giray Altınok as the host does a solid job and the castle in Belgium looks amazing. The production quality is surprisingly high for a Turkish reality show.</p>
+      <p>My only complaint is that some contestants are too obvious with their strategies. But that might change as the show goes on. If you like strategy games and don't mind reality TV this is probably the best thing on Turkish television right now.</p>
+    `,
+    color: "orange",
+  },
+  {
     slug: "the-drama-review",
     date: "2026-04-10",
     title: "The Drama Review",
